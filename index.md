@@ -24,7 +24,7 @@ NEREID is a fully autonomous, four-layer marine pollution response platform.
 * **Deployment:** Drones receive commands from the AI to physically transport and precisely drop sensor-equipped buoys into identified pollution hotspots, eliminating the need for boat dispatch.
 * **Action & Energy:** Once deployed, the buoys actively filter microplastics. They are powered by a hybrid system: solar panels supplemented by onboard microbial fuel cells. These cells use electrogenic bacteria to consume dissolved marine pollutants and convert them directly into electricity [3].
 
-## Unique Contribution
+## Contribution
 We are building the first closed-loop system where intelligence automatically directs logistics without human intervention. By turning the pollution itself into the very energy that powers the cleanup hardware, our buoys become more robust and self-sustaining precisely in the heavily polluted environments where they are needed most.
 
 ---
