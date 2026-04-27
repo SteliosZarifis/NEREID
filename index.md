@@ -29,25 +29,9 @@ We are building the first closed-loop system where intelligence automatically di
 
 ---
 
-## Financial Sustainability
-NEREID ensures long-term viability through three distinct circular blue economy revenue streams. First, Data Licensing: we will provide polymer origin traceability and continuous monitoring data to corporations and governments for EU EPR reporting. Second, Hardware-as-a-Service (HaaS): port authorities and coastal municipalities can lease the autonomous drone and buoy network for localized pollution management. Third, Material Valorisation: the microplastic cartridges collected by the buoys (retrieved via partnerships with local fishers) are integrated directly into the recycled polymer supply chain.
-
-## Acceleration Readiness
-We are currently in the early prototype and laboratory validation stage. Our immediate next steps involve training our satellite detection algorithms, validating our multi-agent AI in simulation, and conducting bench tests of the hybrid microbial fuel cells. Within the next 8–12 months, we will assemble the full drone-and-buoy prototypes for tank testing, followed by an operational pilot deployment in the local gulf. We are highly acceleration-ready: we are seeking support to refine our commercial data-licensing model, improve investor readiness, and structure our operations for a follow-on European maritime grant application to scale our network. 
-
-## Motivation
-The Plastic Fantastic Hackathon provides the ideal ecosystem to transition NEREID from a conceptual architecture into an actionable prototype. Our goal is to leverage the bootcamp's mentorship to refine our commercialization strategy, particularly regarding municipal partnerships and EPR data monetization. We aim to connect with domain experts in blue economy innovation, secure initial validation funding to cover our early-stage simulation and lab testing, and position our organization for larger European deployment grants. We want to prove that Mediterranean pollution response can be predictive, fully autonomous, and energy-positive.
-
----
-
 ## References
 **[1]** United Nations Environment Programme (UNEP). (2022). *Assessment of Marine Litter in the Mediterranean Sea.
 
 **[2]** Danilov, A., & Serdiukova, E. (2024). Review of Methods for Automatic Plastic Detection in Water Areas Using Satellite Images and Machine Learning. *Sensors*, 24(16), 5089.  
 
 **[3]** Kwofie, S., et al. (2024). Comprehensive Analysis of Clean Energy Generation in Microbial Fuel Cells. *International Journal of Energy Research.* <br>
-
-<div align="center">
-  <i>Submitted to the PLASTIC FANTASTIC Hackathon – Track B (Emerging Organisations)</i><br><br>
-  <b>Contact:</b> Lydia Gialama | <a href="mailto:l.gialama@athenarc.gr">l.gialama@athenarc.gr</a> | <a href="https://www.linkedin.com/in/lydia-gialama-5024ba260" target="_blank">LinkedIn</a>
-</div>
