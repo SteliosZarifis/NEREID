@@ -29,20 +29,6 @@ We are building the first closed-loop system where intelligence automatically di
 
 ---
 
-## Team & Impact
-Our multidisciplinary team unites Electrical Engineers, Physicists, and Environmental Scientists to tackle the growing crisis of marine microplastics. By synthesizing expertise in Computer Vision, Robotics, and Machine Learning, we are developing an autonomous, multi-tier ecosystem designed to detect and remove pollutants from the Mediterranean Sea.
-
-Our strength lies in our diversity of perspective: our engineers provide the technical backbone for AI-driven robotics, while our environmentalists ensure our interventions are ecologically sound and bio-integrated. We are experienced in bridging the gap between complex data systems and real-world environmental protection. Our shared mission is to deploy a resilient, distributed network of sustainable autonomous buoys targeted at high-need regions, transforming cutting-edge tech into a scalable shield for our oceans.
-
-* **Nikolas Chatzis** – Electrical Engineer with expertise in Machine Learning and Robotics
-* **Stelios Zarifis** – Electrical Engineer with expertise in Robotics and Predictive Models
-* **Angeliki Tsinouka** – Electrical Engineer with expertise in Computer Vision
-* **Konstantinos Chaldaiopoulos** – Artificial Intelligence / Software Engineer
-* **Lydia Gialama** – Physicist / Material Scientist
-* **Vasiliki Batsi** – Physicist / Environmental Scientist
-
----
-
 ## Financial Sustainability
 NEREID ensures long-term viability through three distinct circular blue economy revenue streams. First, Data Licensing: we will provide polymer origin traceability and continuous monitoring data to corporations and governments for EU EPR reporting. Second, Hardware-as-a-Service (HaaS): port authorities and coastal municipalities can lease the autonomous drone and buoy network for localized pollution management. Third, Material Valorisation: the microplastic cartridges collected by the buoys (retrieved via partnerships with local fishers) are integrated directly into the recycled polymer supply chain.
 
