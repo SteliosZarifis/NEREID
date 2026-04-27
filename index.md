@@ -42,7 +42,9 @@ The Plastic Fantastic Hackathon provides the ideal ecosystem to transition NEREI
 
 ## References
 **[1]** United Nations Environment Programme (UNEP). (2022). *Assessment of Marine Litter in the Mediterranean Sea.
+
 **[2]** Danilov, A., & Serdiukova, E. (2024). Review of Methods for Automatic Plastic Detection in Water Areas Using Satellite Images and Machine Learning. *Sensors*, 24(16), 5089.  
+
 **[3]** Kwofie, S., et al. (2024). Comprehensive Analysis of Clean Energy Generation in Microbial Fuel Cells. *International Journal of Energy Research.* <br>
 
 <div align="center">
